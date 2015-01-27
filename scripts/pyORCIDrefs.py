@@ -2,6 +2,12 @@
 # Author: Cristian R Muntenu (University of A Coruna, Spain)
 # Contact: muntisa@gmail.com
 
+# Usage:
+# python pyORCIDrefs.py "[your ORCID]" > "[outputfile]"
+
+# Example with my ORCID:
+# python pyORCIDrefs.py "0000-0002-5628-2268" > "0000-0002-5628-2268refs.txt"
+
 import urllib,sys
 import xml.etree.ElementTree as ET
 
