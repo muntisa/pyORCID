@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orcid-message xmlns="http://www.orcid.org/ns/orcid">
+    <message-version>1.1</message-version>
+    <orcid-profile type="user">
+        <orcid-identifier>
+            <uri>http://orcid.org/0000-0002-5628-2268</uri>
+            <path>0000-0002-5628-2268</path>
+            <host>orcid.org</host>
+        </orcid-identifier>
+        <orcid-preferences>
+            <locale>en</locale>
+        </orcid-preferences>
+        <orcid-history>
+            <creation-method>website</creation-method>
+            <completion-date>2013-01-09T15:23:05.140Z</completion-date>
+            <submission-date>2013-01-09T15:23:05.140Z</submission-date>
+            <last-modified-date>2015-01-27T22:43:26.649Z</last-modified-date>
+            <claimed>true</claimed>
+        </orcid-history>
+        <orcid-activities>
+            <orcid-works>
+                <orcid-work put-code="12737250">
+                    <work-title>
+                        <title>Prediction of EC50 values for fullerenes using Markov Mean Properties and assay conditions, 7th NanoTox</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Prediction of EC50 values for fullerenes using Markov Mean Properties and assay conditions, 7th NanoTox. Cristian Munteanu, Haralambos Sarimveis. figshare.
+                http://dx.doi.org/10.6084/m9.figshare.1018599</citation>
+                    </work-citation>
+                    <work-type>data-set</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                        <month>05</month>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/m9.figshare.1018599</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0001-9892-9368</uri>
+                        <path>0000-0001-9892-9368</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="12737251">
+                    <work-title>
+                        <title>Prediction of EC50 values for fullerenes using Markov Mean Properties and assay conditions</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Prediction of EC50 values for fullerenes using Markov Mean Properties and assay conditions. Cristian Munteanu, Haralambos Sarimveis. figshare.
+                http://dx.doi.org/10.6084/m9.figshare.1018567</citation>
+                    </work-citation>
+                    <work-type>data-set</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                        <month>05</month>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/m9.figshare.1018567</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0001-9892-9368</uri>
+                        <path>0000-0001-9892-9368</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802806">
+                    <work-title>
+                        <title>ANN Multiscale Model of anti-HIV drugs activity vs. AIDS Prevalence in US at county level based on Information indices of Molecular Graphs and Social Networks.</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Gonzalez-Diaz H, Herrera-Ibata DM, Duardo-Sanchez A, Munteanu CR, Orbegozo-Medina RA, Pazos Sierra A, Journal of chemical information and modeling, 2014</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                        <month>02</month>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>pmid</work-external-identifier-type>
+                            <work-external-identifier-id>24521170</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://europepmc.org/abstract/med/24521170</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Gonzalez-Diaz H</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Herrera-Ibata DM</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Duardo-Sanchez A</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu CR</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Orbegozo-Medina RA</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos Sierra A</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-9157-3431</uri>
+                        <path>0000-0002-9157-3431</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802807">
+                    <work-title>
+                        <title>Modeling Complex Metabolic Reactions, Ecological Systems, and Financial and Legal Networks with MIANN models based on Markov-Wiener node descriptors.</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Durado-Sanchez A, Munteanu CR, Riera-Fernández P, López-Díaz A, Pazos Sierra A, Gonzalez-Diaz H, Journal of chemical information and modeling, 2013</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                        <month>12</month>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1021/ci400280n</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>pmid</work-external-identifier-type>
+                            <work-external-identifier-id>24320872</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://europepmc.org/abstract/med/24320872</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Durado-Sanchez A</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu CR</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Riera-Fernández P</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">López-Díaz A</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos Sierra A</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gonzalez-Diaz H</credit-name>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-9157-3431</uri>
+                        <path>0000-0002-9157-3431</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="12737793">
+                    <work-title>
+                        <title>Kernel-Based Feature Selection Techniques for Transport Proteins Based on Star Graph Topological Indices</title>
+                    </work-title>
+                    <journal-title>CTMC</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Fernandez_Lozano_2013, title={Kernel-Based Feature Selection Techniques for Transport Proteins Based on Star Graph Topological Indices}, volume={13}, ISSN={1568-0266}, url={http://dx.doi.org/10.2174/15680266113139990119}, DOI={10.2174/15680266113139990119}, number={14}, journal={Current Topics in Medicinal Chemistry}, publisher={Bentham Science Publishers Ltd.}, author={Fernandez-Lozano, Carlos and Gestal, Marcos and Pedreira-Souto, Nieves and Postelnicu, Lucian and Dorado, Julian and Munteanu, Cristian}, year={2013}, month={Aug}, pages={1681â1691}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                        <month>08</month>
+                        <day>01</day>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/15680266113139990119</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>issn</work-external-identifier-type>
+                            <work-external-identifier-id>1568-0266</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Carlos Fernandez-Lozano</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Marcos Gestal</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Nieves Pedreira-Souto</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Lucian Postelnicu</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Julian Dorado</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cristian Munteanu</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                        <path>0000-0002-3054-1567</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="12737795">
+                    <work-title>
+                        <title>Biomedical Data Integration in Computational Drug Design and Bioinformatics</title>
+                    </work-title>
+                    <journal-title>Current Computer - Aided Drug Design</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{A_Seoane_2013, title={Biomedical Data Integration in Computational Drug Design and Bioinformatics}, volume={9}, ISSN={1573-4099}, url={http://dx.doi.org/10.2174/157340913804998757}, DOI={10.2174/157340913804998757}, number={1}, journal={Current Computer - Aided Drug Design}, publisher={Bentham Science Publishers Ltd.}, author={A. Seoane, Jose and Aguiar-Pulido, Vanessa and R. Munteanu, Cristian and Rivero, Daniel and R. Rabunal, Juan and Dorado, Julian and Pazos, Alejandro}, year={2013}, month={Mar}, pages={108â117}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                        <month>03</month>
+                        <day>01</day>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/157340913804998757</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>issn</work-external-identifier-type>
+                            <work-external-identifier-id>1573-4099</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Jose A. Seoane</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Vanessa Aguiar-Pulido</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cristian R. Munteanu</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Daniel Rivero</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Juan R. Rabunal</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Julian Dorado</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Alejandro Pazos</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                        <path>0000-0002-3054-1567</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802829">
+                    <work-title>
+                        <title>The Rücker-Markov invariants of complex Bio-Systems: Applications in Parasitology and Neuroinformatics</title>
+                    </work-title>
+                    <journal-title>BioSystems</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {The Rücker-Markov invariants of complex Bio-Systems: Applications in Parasitology and Neuroinformatics},journal = {BioSystems},year = {2013},volume = {111},number = {3},pages = {199-207},author = {González-Díaz, H. and Riera-Fernández, P. and Pazos, A. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.biosystems.2013.02.006</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84875276111&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Riera-Fernández, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802822">
+                    <work-title>
+                        <title>S2SNET: A tool for transforming characters and numeric sequences into star network topological indices in chemoinformatics, bioinformatics, biomedical, and social-legal sciences</title>
+                    </work-title>
+                    <journal-title>Current Bioinformatics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {S2SNET: A tool for transforming characters and numeric sequences into star network topological indices in chemoinformatics, bioinformatics, biomedical, and social-legal sciences},journal = {Current Bioinformatics},year = {2013},volume = {8},number = {4},pages = {429-437},author = {Munteanu, C.R. and Magalhães, A.L. and Duardo-Sánchez, A. and Pazos, A. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1574893611308040005</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84882804172&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Magalhães, A.L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Duardo-Sánchez, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802830">
+                    <work-title>
+                        <title>Regulatory affairs issues and legal ontologies in drug development</title>
+                    </work-title>
+                    <journal-title>Frontiers in Bioscience - Elite</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {Regulatory affairs issues and legal ontologies in drug development},journal = {Frontiers in Bioscience - Elite},year = {2013},volume = {5 E},number = {2},pages = {446-460},author = {Munteanu, C.R. and Dorado, J. and Matei-Ilfoveanu, I. and Nita, S.A.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84878494045&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Matei-Ilfoveanu, I.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Nita, S.A.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802826">
+                    <work-title>
+                        <title>MIANN models in medicinal, Physical and Organic Chemistry</title>
+                    </work-title>
+                    <journal-title>Current Topics in Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {MIANN models in medicinal, Physical and Organic Chemistry},journal = {Current Topics in Medicinal Chemistry},year = {2013},volume = {13},number = {5},pages = {619-641},author = {González-Díaz, H. and Arrasate, S. and Sotomayor, N. and Lete, E. and Munteanu, C.R. and Pazos, A. and Besada-Porto, L. and Ruso, J.M.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1568026611313050006</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84878602338&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Arrasate, S.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Sotomayor, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Lete, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Besada-Porto, L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ruso, J.M.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802823">
+                    <work-title>
+                        <title>Markov-Randić indices for QSPR re-evaluation of metabolic, parasite-host, fasciolosis spreading, brain cortex and legal-social complex networks</title>
+                    </work-title>
+                    <journal-title>Current Bioinformatics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {Markov-Randić indices for QSPR re-evaluation of metabolic, parasite-host, fasciolosis spreading, brain cortex and legal-social complex networks},journal = {Current Bioinformatics},year = {2013},volume = {8},number = {4},pages = {401-415},author = {Riera-Fernández, P. and Munteanu, C.R. and Martín-Romalde, R. and Duardo-Sánchez, A. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1574893611308040003</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84882778686&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Riera-Fernández, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martín-Romalde, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Duardo-Sánchez, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802821">
+                    <work-title>
+                        <title>Kernel-based feature selection techniques for transport proteins based on Star graph topological indices</title>
+                    </work-title>
+                    <journal-title>Current Topics in Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {Kernel-based feature selection techniques for transport proteins based on Star graph topological indices},journal = {Current Topics in Medicinal Chemistry},year = {2013},volume = {13},number = {14},pages = {1681-1691},author = {Fernandez-Lozano, C. and Gestal, M. and Pedreira-Souto, N. and Postelnicu, L. and Dorado, J. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84887866644&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Fernandez-Lozano, C.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gestal, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pedreira-Souto, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Postelnicu, L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802827">
+                    <work-title>
+                        <title>He-, Ne-, and Ar-phosgene intermolecular potential energy surfaces</title>
+                    </work-title>
+                    <journal-title>Journal of Physical Chemistry A</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {He-, Ne-, and Ar-phosgene intermolecular potential energy surfaces},journal = {Journal of Physical Chemistry A},year = {2013},volume = {117},number = {18},pages = {3835-3843},author = {Munteanu, C.R. and Henriksen, C. and Felker, P.M. and Fernández, B.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1021/jp3110024</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84877714137&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Henriksen, C.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Felker, P.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernández, B.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802820">
+                    <work-title>
+                        <title>Evolutionary computation and QSAR research</title>
+                    </work-title>
+                    <journal-title>Current Computer-Aided Drug Design</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {Evolutionary computation and QSAR research},journal = {Current Computer-Aided Drug Design},year = {2013},volume = {9},number = {2},pages = {206-225},author = {Aguiar-Pulido, V. and Gestal, M. and Cruz-Monteagudo, M. and Rabuñal, J.R. and Dorado, J. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1573409911309020006</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84888061749&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Aguiar-Pulido, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gestal, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cruz-Monteagudo, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rabuñal, J.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802825">
+                    <work-title>
+                        <title>Artificial intelligence techniques in medicinal chemistry</title>
+                    </work-title>
+                    <journal-title>Current Topics in Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {Artificial intelligence techniques in medicinal chemistry},journal = {Current Topics in Medicinal Chemistry},year = {2013},volume = {13},number = {5},author = {Munteanu, C.R. and Dorado, J. and Pazos, A.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1568026611313050001</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84878588133&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802824">
+                    <work-title>
+                        <title>Applied computational techniques on schizophrenia using genetic mutations</title>
+                    </work-title>
+                    <journal-title>Current Topics in Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2013,title = {Applied computational techniques on schizophrenia using genetic mutations},journal = {Current Topics in Medicinal Chemistry},year = {2013},volume = {13},number = {5},pages = {675-684},author = {Aguiar-Pulido, V. and Gestal, M. and Fernandez-Lozano, C. and Rivero, D. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1568026611313050010</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84878546734&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Aguiar-Pulido, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gestal, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernandez-Lozano, C.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rivero, D.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802831">
+                    <work-title>
+                        <title>QSAR, complex networks, principal components and partial order analysis of drug cardiotoxicity with proteome mass-spectra topological indices</title>
+                    </work-title>
+                    <journal-title>Recent Trends on QSAR in the Pharmaeutical Perceptions</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,title = {QSAR, complex networks, principal components and partial order analysis of drug cardiotoxicity with proteome mass-spectra topological indices},journal = {Recent Trends on QSAR in the Pharmaeutical Perceptions},year = {2012},pages = {3-50},author = {Munteanu, C.R. and Cruz-Monteagudo, M. and Borges, F. and Cordeiro, M.N.D.S. and Concud, R. and González-Díaze, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/978160805379711201010003</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84882823449&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cruz-Monteagudo, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Borges, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cordeiro, M.N.D.S.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Concud, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaze, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802837">
+                    <work-title>
+                        <title>New Markov-Shannon Entropy models to assess connectivity quality in complex networks: From molecular to cellular pathway, Parasite-Host, Neural, Industry, and Legal-Social networks</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,title = {New Markov-Shannon Entropy models to assess connectivity quality in complex networks: From molecular to cellular pathway, Parasite-Host, Neural, Industry, and Legal-Social networks},journal = {Journal of Theoretical Biology},year = {2012},volume = {293},pages = {174-188},author = {Riera-Fernández, P. and Munteanu, C.R. and Escobar, M. and Prado-Prado, F. and Martín-Romalde, R. and Pereira, D. and Villalba, K. and Duardo-Sánchez, A. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2011.10.016</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-80155156001&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Riera-Fernández, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Escobar, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prado-Prado, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martín-Romalde, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pereira, D.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Villalba, K.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Duardo-Sánchez, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802834">
+                    <work-title>
+                        <title>Naïve Bayes QSDR classification based on spiral-graph Shannon entropies for protein biomarkers in human colon cancer</title>
+                    </work-title>
+                    <journal-title>Molecular BioSystems</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,title = {Naïve Bayes QSDR classification based on spiral-graph Shannon entropies for protein biomarkers in human colon cancer},journal = {Molecular BioSystems},year = {2012},volume = {8},number = {6},pages = {1716-1722},author = {Aguiar-Pulido, V. and Munteanu, C.R. and Seoane, J.A. and Fernández-Blanco, E. and Pérez-Montoto, L.G. and González-Díaz, H. and Dorado, J.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1039/c2mb25039j</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84861161557&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Aguiar-Pulido, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Seoane, J.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernández-Blanco, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pérez-Montoto, L.G.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802833">
+                    <work-title>
+                        <title>Nanoinformatics: Developing new computing applications for nanomedicine</title>
+                    </work-title>
+                    <journal-title>Computing</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,title = {Nanoinformatics: Developing new computing applications for nanomedicine},journal = {Computing},year = {2012},volume = {94},number = {6},pages = {521-539},author = {Maojo, V. and Fritts, M. and Martin-Sanchez, F. and De La Iglesia, D. and Cachau, R.E. and Garcia-Remesal, M. and Crespo, J. and Mitchell, J.A. and Anguita, A. and Baker, N. and Barreiro, J.M. and Benitez, S.E. and De La Calle, G. and Facelli, J.C. and Ghazal, P. and Geissbuhler, A. and Gonzalez-Nilo, F. and Graf, N. and Grangeat, P. and Hermosilla, I. and Hussein, R. and Kern, J. and Koch, S. and Legre, Y. and Lopez-Alonso, V. and Lopez-Campos, G. and Milanesi, L. and Moustakis, V. and Munteanu, C. and Otero, P. and Pazos, A. and Perez-Rey, D. and Potamias, G. and Sanz, F. and Kulikowski, C.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1007/s00607-012-0191-2</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84864573115&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Maojo, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fritts, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martin-Sanchez, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">De La Iglesia, D.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cachau, R.E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Garcia-Remesal, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Crespo, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Mitchell, J.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Anguita, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Baker, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Barreiro, J.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Benitez, S.E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">De La Calle, G.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Facelli, J.C.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ghazal, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Geissbuhler, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gonzalez-Nilo, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Graf, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Grangeat, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Hermosilla, I.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Hussein, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Kern, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Koch, S.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Legre, Y.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Lopez-Alonso, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Lopez-Campos, G.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Milanesi, L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Moustakis, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Otero, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Perez-Rey, D.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Potamias, G.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Sanz, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Kulikowski, C.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802836">
+                    <work-title>
+                        <title>LIBP-Pred: Web server for lipid binding proteins using structural network parameters; PDB mining of human cancer biomarkers and drug targets in parasites and bacteria</title>
+                    </work-title>
+                    <journal-title>Molecular BioSystems</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,title = {LIBP-Pred: Web server for lipid binding proteins using structural network parameters; PDB mining of human cancer biomarkers and drug targets in parasites and bacteria},journal = {Molecular BioSystems},year = {2012},volume = {8},number = {3},pages = {851-862},author = {González-Díaz, H. and Munteanu, C.R. and Postelnicu, L. and Prado-Prado, F. and Gestal, M. and Pazos, A.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1039/c2mb05432a</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84857196333&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Postelnicu, L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prado-Prado, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gestal, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351097">
+                    <work-title>
+                        <title>From QSAR models of drugs to complex networks: State-of-art review and introduction of new markov-spectral moments indices</title>
+                    </work-title>
+                    <journal-title>Current Topics in Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,
+	title = {From QSAR models of drugs to complex networks: State-of-art review and introduction of new markov-spectral moments indices},
+	journal = {Current Topics in Medicinal Chemistry},
+	year = {2012},
+	volume = {12},
+	number = {8},
+	pages = {927-960},
+	author = {Riera-Fernández, P. and Martín-Romalde, R. and Prado-Prado, F.J. and Escobar, M. and Munteanu, C.R. and Concu, R. and Duardo-Sanchez, A. and González-Díaz, H.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/156802612800166819</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84860277508&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802832">
+                    <work-title>
+                        <title>Automatic seizure detection based on star graph topological indices</title>
+                    </work-title>
+                    <journal-title>Journal of Neuroscience Methods</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2012,title = {Automatic seizure detection based on star graph topological indices},journal = {Journal of Neuroscience Methods},year = {2012},volume = {209},number = {2},pages = {410-419},author = {Fernandez-Blanco, E. and Rivero, D. and Rabuñal, J. and Dorado, J. and Pazos, A. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jneumeth.2012.07.004</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84864412311&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Fernandez-Blanco, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rivero, D.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rabuñal, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351095">
+                    <work-title>
+                        <title>Editorial [Hot Topic: Convergence of Bioinformatics with Nanotechnology and Artificial Intelligence Technologies (Guest Editor: Cristian Robert Munteanu)]</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Robert Munteanu, C, 2011, 'Editorial [Hot Topic: Convergence of Bioinformatics with Nanotechnology and Artificial Intelligence Technologies (Guest Editor: Cristian Robert Munteanu)]', vol. 6, no. 2, pp. 144-144.</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                        <month>06</month>
+                        <day>01</day>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/1574893611106020144</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-contributors>
+                        <contributor>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5628-2268</uri>
+                        <path>0000-0002-5628-2268</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802841">
+                    <work-title>
+                        <title>The ability of MEAs containing cultured neuroglial networks to process information</title>
+                    </work-title>
+                    <journal-title>Current Bioinformatics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {The ability of MEAs containing cultured neuroglial networks to process information},journal = {Current Bioinformatics},year = {2011},volume = {6},number = {2},pages = {199-204},author = {Alvarellos, A. and Veiguela, N. and Munteanu, C.R. and Dorado, J. and Pazos, A. and Porto-Pazos, A.B.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79958234240&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Alvarellos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Veiguela, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Porto-Pazos, A.B.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802840">
+                    <work-title>
+                        <title>SNP-schizo: A web tool for schizophrenia SNP sequence classification</title>
+                    </work-title>
+                    <journal-title>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {SNP-schizo: A web tool for schizophrenia SNP sequence classification},journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},year = {2011},volume = {6692 LNCS},number = {PART 2},pages = {252-259},author = {Aguiar-Pulido, V. and Seoane, J.A. and Munteanu, C.R. and Pazos, A.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1007/978-3-642-21498-1_32</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79957959782&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Aguiar-Pulido, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Seoane, J.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802844">
+                    <work-title>
+                        <title>NL MIND-BEST: A web server for ligands and proteins discovery-Theoretic-experimental study of proteins of Giardia lamblia and new compounds active against Plasmodium falciparum</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {NL MIND-BEST: A web server for ligands and proteins discovery-Theoretic-experimental study of proteins of Giardia lamblia and new compounds active against Plasmodium falciparum},journal = {Journal of Theoretical Biology},year = {2011},volume = {276},number = {1},pages = {229-249},author = {González-Díaz, H. and Prado-Prado, F. and Sobarzo-Sánchez, E. and Haddad, M. and Maurel Chevalley, S. and Valentin, A. and Quetin-Leclercq, J. and Dea-Ayuela, M.A. and Teresa Gomez-Muños, M. and Munteanu, C.R. and José Torres-Labandeira, J. and García-Mera, X. and Tapia, R.A. and Ubeira, F.M.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2011.01.010</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79952327303&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prado-Prado, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Sobarzo-Sánchez, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Haddad, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Maurel Chevalley, S.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Valentin, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Quetin-Leclercq, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dea-Ayuela, M.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Teresa Gomez-Muños, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">José Torres-Labandeira, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">García-Mera, X.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Tapia, R.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ubeira, F.M.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351102">
+                    <work-title>
+                        <title>MISS-Prot: Web server for self/non-self discrimination of protein residue networks in parasites; Theory and experiments in Fasciola peptides and Anisakis allergens</title>
+                    </work-title>
+                    <journal-title>Molecular BioSystems</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,
+	title = {MISS-Prot: Web server for self/non-self discrimination of protein residue networks in parasites; Theory and experiments in Fasciola peptides and Anisakis allergens},
+	journal = {Molecular BioSystems},
+	year = {2011},
+	volume = {7},
+	number = {6},
+	pages = {1938-1955},
+	author = {González-Díaz, H. and Muíño, L. and Anadón, A.M. and Romaris, F. and Prado-Prado, F.J. and Munteanu, C.R. and Dorado, J. and Sierra, A.P. and Mezo, M. and González-Warleta, M. and Gárate, T. and Ubeira, F.M.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1039/c1mb05069a</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79956155361&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802845">
+                    <work-title>
+                        <title>MIND-BEST: Web server for drugs and target discovery; Design, synthesis, and assay of MAO-B inhibitors and theoretical-experimental study of G3PDH protein from trichomonas gallinae</title>
+                    </work-title>
+                    <journal-title>Journal of Proteome Research</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {MIND-BEST: Web server for drugs and target discovery; Design, synthesis, and assay of MAO-B inhibitors and theoretical-experimental study of G3PDH protein from trichomonas gallinae},journal = {Journal of Proteome Research},year = {2011},volume = {10},number = {4},pages = {1698-1718},author = {González-Díaz, H. and Prado-Prado, F. and García-Mera, X. and Alonso, N. and Abeijón, P. and Caamaño, O. and Yáñez, M. and Munteanu, C.R. and Pazos, A. and Dea-Ayuela, M.A. and Gómez-Muñoz, M.T. and Garijo, M.M. and Sansano, J. and Ubeira, F.M.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1021/pr101009e</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79953716848&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prado-Prado, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">García-Mera, X.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Alonso, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Abeijón, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Caamaño, O.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Yáñez, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dea-Ayuela, M.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Gómez-Muñoz, M.T.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Garijo, M.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Sansano, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ubeira, F.M.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802838">
+                    <work-title>
+                        <title>From chemical graphs in computer-aided drug design to general Markov-Galvez indices of drug-target, proteome, drug-parasitic disease, technological, and social-legal networks</title>
+                    </work-title>
+                    <journal-title>Current Computer-Aided Drug Design</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {From chemical graphs in computer-aided drug design to general Markov-Galvez indices of drug-target, proteome, drug-parasitic disease, technological, and social-legal networks},journal = {Current Computer-Aided Drug Design},year = {2011},volume = {7},number = {4},pages = {315-337},author = {Riera-Fernández, P. and Munteanu, C.R. and Dorado, J. and Martín-Romalde, R. and Duardo-Sanchez, A. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-82955246111&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Riera-Fernández, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martín-Romalde, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Duardo-Sanchez, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802846">
+                    <work-title>
+                        <title>Definition of markov-harary invariants and review of classic topological indices and databases in biology, parasitology, technology, and social-legal networks</title>
+                    </work-title>
+                    <journal-title>Current Bioinformatics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {Definition of markov-harary invariants and review of classic topological indices and databases in biology, parasitology, technology, and social-legal networks},journal = {Current Bioinformatics},year = {2011},volume = {6},number = {1},pages = {94-121},author = {Riera-Fernández, P. and Munteanu, C.R. and Pedreira-Souto, N. and Martín-Romalde, R. and Duardo-Sanchez, A. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79953895047&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Riera-Fernández, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pedreira-Souto, N.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martín-Romalde, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Duardo-Sanchez, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802843">
+                    <work-title>
+                        <title>Convergence of bioinformatics with nanotechnology and artificial intelligence technologies</title>
+                    </work-title>
+                    <journal-title>Current Bioinformatics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {Convergence of bioinformatics with nanotechnology and artificial intelligence technologies},journal = {Current Bioinformatics},year = {2011},volume = {6},number = {2},author = {Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79958243017&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802839">
+                    <work-title>
+                        <title>Automatic feature extraction using genetic programming: An application to epileptic EEG classification</title>
+                    </work-title>
+                    <journal-title>Expert Systems with Applications</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {Automatic feature extraction using genetic programming: An application to epileptic EEG classification},journal = {Expert Systems with Applications},year = {2011},volume = {38},number = {8},pages = {10425-10436},author = {Guo, L. and Rivero, D. and Dorado, J. and Munteanu, C.R. and Pazos, A.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.eswa.2011.02.118</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-79953693243&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Guo, L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rivero, D.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802847">
+                    <work-title>
+                        <title>Amino acid pair- and triplet-wise groupings in the interior of α-helical segments in proteins</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2011,title = {Amino acid pair- and triplet-wise groupings in the interior of α-helical segments in proteins},journal = {Journal of Theoretical Biology},year = {2011},volume = {271},number = {1},pages = {136-144},author = {de Sousa, M.M. and Munteanu, C.R. and Pazos, A. and Fonseca, N.A. and Camacho, R. and Magalhães, A.L.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2010.11.028</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-78650141978&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">de Sousa, M.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fonseca, N.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Camacho, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Magalhães, A.L.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802853">
+                    <work-title>
+                        <title>Trypano-PPI: A web server for prediction of unique targets in trypanosome proteome by using electrostatic parameters of protein-protein interactions</title>
+                    </work-title>
+                    <journal-title>Journal of Proteome Research</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,title = {Trypano-PPI: A web server for prediction of unique targets in trypanosome proteome by using electrostatic parameters of protein-protein interactions},journal = {Journal of Proteome Research},year = {2010},volume = {9},number = {2},pages = {1182-1190},author = {Rodriguez-Soca, Y. and Munteanu, C.R. and Dorado, J. and Pazos, A. and Prado-Prado, F.J. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1021/pr900827b</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-76149112596&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Rodriguez-Soca, Y.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prado-Prado, F.J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802854">
+                    <work-title>
+                        <title>Plasmod-PPI: A web-server predicting complex biopolymer targets in plasmodium with entropy measures of protein-protein interactions</title>
+                    </work-title>
+                    <journal-title>Polymer</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,title = {Plasmod-PPI: A web-server predicting complex biopolymer targets in plasmodium with entropy measures of protein-protein interactions},journal = {Polymer},year = {2010},volume = {51},number = {1},pages = {264-273},author = {Rodriguez-Soca, Y. and Munteanu, C.R. and Dorado, J. and Rabuñal, J. and Pazos, A. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.polymer.2009.11.029</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-72249103200&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Rodriguez-Soca, Y.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rabuñal, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802850">
+                    <work-title>
+                        <title>Ontologies of drug discovery and design for Neurology, Cardiology and Oncology</title>
+                    </work-title>
+                    <journal-title>Current Pharmaceutical Design</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,title = {Ontologies of drug discovery and design for Neurology, Cardiology and Oncology},journal = {Current Pharmaceutical Design},year = {2010},volume = {16},number = {24},pages = {2724-2736},author = {Vázquez-Naya, J.M. and Martínez-Romero, M. and Porto-Pazos, A.B. and Novoa, F. and Valladares-Ayerbes, M. and Pereira, J. and Munteanu, C.R. and Dorado, J.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/138161210792389199</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-77957956609&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Vázquez-Naya, J.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martínez-Romero, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Porto-Pazos, A.B.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Novoa, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Valladares-Ayerbes, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pereira, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802851">
+                    <work-title>
+                        <title>Machine learning techniques for single nucleotide polymorphism - disease classification models in schizophrenia</title>
+                    </work-title>
+                    <journal-title>Molecules</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,title = {Machine learning techniques for single nucleotide polymorphism - disease classification models in schizophrenia},journal = {Molecules},year = {2010},volume = {15},number = {7},pages = {4875-4889},author = {Aguiar-Pulido, V. and Seoane, J.A. and Rabuñal, J.R. and Dorado, J. and Pazos, A. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.3390/molecules15074875</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-77954965437&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Aguiar-Pulido, V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Seoane, J.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rabuñal, J.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802849">
+                    <work-title>
+                        <title>Drug discovery and design for complex diseases through QSAR computational methods</title>
+                    </work-title>
+                    <journal-title>Current Pharmaceutical Design</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,title = {Drug discovery and design for complex diseases through QSAR computational methods},journal = {Current Pharmaceutical Design},year = {2010},volume = {16},number = {24},pages = {2640-2655},author = {Munteanu, C.R. and Fernández-Blanco, E. and Seoane, J.A. and Izquierdo-Novo, P. and Rodríguez-Fernández, J.A. and Prieto-González, J.M. and Rabuñal, J.R. and Pazos, A.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/138161210792389252</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-77957962930&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernández-Blanco, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Seoane, J.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Izquierdo-Novo, P.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rodríguez-Fernández, J.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prieto-González, J.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rabuñal, J.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802852">
+                    <work-title>
+                        <title>Artificial intelligence techniques for colorectal cancer drug metabolism: Ontologies and complex networks</title>
+                    </work-title>
+                    <journal-title>Current Drug Metabolism</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,title = {Artificial intelligence techniques for colorectal cancer drug metabolism: Ontologies and complex networks},journal = {Current Drug Metabolism},year = {2010},volume = {11},number = {4},pages = {347-368},author = {Martínez-Romero, M. and Vázquez-Naya, J.M. and Rabuñal, J.R. and Pita-Fernández, S. and Macenlle, R. and Castro-Alvariño, J. and López-Roses, L. and Ulla, J.L. and Martínez-Calvo, A.V. and Vázquez, S. and Pereira, J. and Porto-Pazos, A.B. and Dorado, J. and Pazos, A. and Munteanu, C.R.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/138920010791514289</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-77953299848&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Martínez-Romero, M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Vázquez-Naya, J.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Rabuñal, J.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pita-Fernández, S.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Macenlle, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Castro-Alvariño, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">López-Roses, L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ulla, J.L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Martínez-Calvo, A.V.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Vázquez, S.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pereira, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Porto-Pazos, A.B.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dorado, J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351086">
+                    <work-title>
+                        <title>An approach for the automatic recommendation of ontologies using collaborative knowledge</title>
+                    </work-title>
+                    <journal-title>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2010,
+	title = {An approach for the automatic recommendation of ontologies using collaborative knowledge},
+	journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+	year = {2010},
+	volume = {6277 LNAI},
+	number = {PART 2},
+	pages = {74-81},
+	author = {Martínez-Romero, M. and Vázquez-Naya, J.M. and Munteanu, C.R. and Pereira, J. and Pazos, A.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1007/978-3-642-15390-7_8</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-78449233090&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351118">
+                    <work-title>
+                        <title>Star graphs of protein sequences and proteome mass spectra in cancer prediction</title>
+                    </work-title>
+                    <journal-title>Current Proteomics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {Star graphs of protein sequences and proteome mass spectra in cancer prediction},
+	journal = {Current Proteomics},
+	year = {2009},
+	volume = {6},
+	number = {4},
+	pages = {275-288},
+	author = {Vázquez, J.M. and Aguiar, V. and Seoane, J.A. and Freire, A. and Serantes, J.A. and Dorado, J. and Pazos, A. and Munteanu, C.R.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.2174/157016409789973752</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-72449164589&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351113">
+                    <work-title>
+                        <title>QSAR and complex network study of the chiral HMGR inhibitor structural diversity</title>
+                    </work-title>
+                    <journal-title>Bioorganic and Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {QSAR and complex network study of the chiral HMGR inhibitor structural diversity},
+	journal = {Bioorganic and Medicinal Chemistry},
+	year = {2009},
+	volume = {17},
+	number = {1},
+	pages = {165-175},
+	author = {García, I. and Munteanu, C.R. and Fall, Y. and Gómez, G. and Uriarte, E. and González-Díaz, H.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.bmc.2008.11.007</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-57749180853&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351112">
+                    <work-title>
+                        <title>Prot-2S: A new python web tool for protein secondary structure studies</title>
+                    </work-title>
+                    <journal-title>International Journal of Bioinformatics Research and Applications</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {Prot-2S: A new python web tool for protein secondary structure studies},
+	journal = {International Journal of Bioinformatics Research and Applications},
+	year = {2009},
+	volume = {5},
+	number = {4},
+	pages = {402-416},
+	author = {Munteanu, C.R. and Magalhães, A.L.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1504/IJBRA.2009.027513</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-68949093898&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351104">
+                    <work-title>
+                        <title>Multi-target QPDR classification model for human breast and colon cancer-related proteins using star graph topological indices</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {Multi-target QPDR classification model for human breast and colon cancer-related proteins using star graph topological indices},
+	journal = {Journal of Theoretical Biology},
+	year = {2009},
+	volume = {257},
+	number = {2},
+	pages = {303-311},
+	author = {Munteanu, C.R. and Magalhães, A.L. and Uriarte, E. and González-Díaz, H.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2008.11.017</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-60749111710&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351099">
+                    <work-title>
+                        <title>Generalized lattice graphs for 2D-visualization of biological information</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {Generalized lattice graphs for 2D-visualization of biological information},
+	journal = {Journal of Theoretical Biology},
+	year = {2009},
+	volume = {261},
+	number = {1},
+	pages = {136-147},
+	author = {González-Díaz, H. and Pérez-Montoto, L.G. and Duardo-Sanchez, A. and Paniagua, E. and Vázquez-Prieto, S. and Vilas, R. and Dea-Ayuela, M.A. and Bolas-Fernández, F. and Munteanu, C.R. and Dorado, J. and Costas, J. and Ubeira, F.M.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2009.07.029</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-70349609443&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351092">
+                    <work-title>
+                        <title>Data mining in complex diseases using evolutionary computation</title>
+                    </work-title>
+                    <journal-title>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {Data mining in complex diseases using evolutionary computation},
+	journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+	year = {2009},
+	volume = {5517 LNCS},
+	number = {PART 1},
+	pages = {917-924},
+	author = {Aguiar, V. and Seoane, J.A. and Freire, A. and Munteanu, C.R.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1007/978-3-642-02478-8_115</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-68749088905&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351090">
+                    <work-title>
+                        <title>Complex network spectral moments for ATCUN motif DNA cleavage: First predictive study on proteins of human pathogen parasites</title>
+                    </work-title>
+                    <journal-title>Journal of Proteome Research</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,
+	title = {Complex network spectral moments for ATCUN motif DNA cleavage: First predictive study on proteins of human pathogen parasites},
+	journal = {Journal of Proteome Research},
+	year = {2009},
+	volume = {8},
+	number = {11},
+	pages = {5219-5228},
+	author = {Munteanu, C.R. and Vázquez, J.M. and Dorado, J. and Sierra, A.P. and Sánchez-González, Á. and Prado-Prado, F.J. and González-Díaz, H.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1021/pr900556g</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-70449513218&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802862">
+                    <work-title>
+                        <title>Alignment-free prediction of mycobacterial DNA promoters based on pseudo-folding lattice network or star-graph topological indices</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,title = {Alignment-free prediction of mycobacterial DNA promoters based on pseudo-folding lattice network or star-graph topological indices},journal = {Journal of Theoretical Biology},year = {2009},volume = {256},number = {3},pages = {458-466},author = {Perez-Bello, A. and Munteanu, C.R. and Ubeira, F.M. and Lopes De Magalhães, A. and Uriarte, E. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2008.09.035</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-58149187912&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Perez-Bello, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ubeira, F.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Lopes De Magalhães, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Uriarte, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802855">
+                    <work-title>
+                        <title>3D entropy and moments prediction of enzyme classes and experimental-theoretic study of peptide fingerprints in Leishmania parasites</title>
+                    </work-title>
+                    <journal-title>Biochimica et Biophysica Acta - Proteins and Proteomics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2009,title = {3D entropy and moments prediction of enzyme classes and experimental-theoretic study of peptide fingerprints in Leishmania parasites},journal = {Biochimica et Biophysica Acta - Proteins and Proteomics},year = {2009},volume = {1794},number = {12},pages = {1784-1794},author = {Concu, R. and Dea-Ayuela, M.A. and Perez-Montoto, L.G. and Prado-Prado, F.J. and Uriarte, E. and Bolás-Fernández, F. and Podda, G. and Pazos, A. and Munteanu, C.R. and Ubeira, F.M. and González-Díaz, H.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2009</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.bbapap.2009.08.020</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-72449156778&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Concu, R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Dea-Ayuela, M.A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Perez-Montoto, L.G.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Prado-Prado, F.J.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Uriarte, E.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Bolás-Fernández, F.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Podda, G.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Pazos, A.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Ubeira, F.M.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">González-Díaz, H.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351119">
+                    <work-title>
+                        <title>Stochastic molecular descriptors for polymers. 4. Study of complex mixtures with topological indices of mass spectra spiral and star networks: The blood proteome case</title>
+                    </work-title>
+                    <journal-title>Polymer</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2008,
+	title = {Stochastic molecular descriptors for polymers. 4. Study of complex mixtures with topological indices of mass spectra spiral and star networks: The blood proteome case},
+	journal = {Polymer},
+	year = {2008},
+	volume = {49},
+	number = {25},
+	pages = {5575-5587},
+	author = {Cruz-Monteagudo, M. and Munteanu, C.R. and Borges, F. and Cordeiro, M.N.D.S. and Uriarte, E. and Chou, K.-C. and González-Díaz, H.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2008</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.polymer.2008.09.070</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-56149097042&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351114">
+                    <work-title>
+                        <title>Quantitative Proteome-Property Relationships (QPPRs). Part 1: Finding biomarkers of organic drugs with mean Markov connectivity indices of spiral networks of blood mass spectra</title>
+                    </work-title>
+                    <journal-title>Bioorganic and Medicinal Chemistry</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2008,
+	title = {Quantitative Proteome-Property Relationships (QPPRs). Part 1: Finding biomarkers of organic drugs with mean Markov connectivity indices of spiral networks of blood mass spectra},
+	journal = {Bioorganic and Medicinal Chemistry},
+	year = {2008},
+	volume = {16},
+	number = {22},
+	pages = {9684-9693},
+	author = {Cruz-Monteagudo, M. and Munteanu, C.R. and Borges, F. and Cordeiro, M.N.D.S. and Uriarte, E. and González-Díaz, H.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2008</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.bmc.2008.10.004</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-54949158392&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351107">
+                    <work-title>
+                        <title>Natural/random protein classification models based on star network topological indices</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2008,
+	title = {Natural/random protein classification models based on star network topological indices},
+	journal = {Journal of Theoretical Biology},
+	year = {2008},
+	volume = {254},
+	number = {4},
+	pages = {775-783},
+	author = {Munteanu, C.R. and González-Díaz, H. and Borges, F. and de Magalhães, A.L.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2008</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2008.07.018</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-52149090972&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351096">
+                    <work-title>
+                        <title>Enzymes/non-enzymes classification model complexity based on composition, sequence, 3D and topological indices</title>
+                    </work-title>
+                    <journal-title>Journal of Theoretical Biology</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2008,
+	title = {Enzymes/non-enzymes classification model complexity based on composition, sequence, 3D and topological indices},
+	journal = {Journal of Theoretical Biology},
+	year = {2008},
+	volume = {254},
+	number = {2},
+	pages = {476-482},
+	author = {Munteanu, C.R. and González-Díaz, H. and Magalhães, A.L.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2008</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2008.06.003</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-50149119645&amp;partnerID=MN8TOARS</url>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802868">
+                    <work-title>
+                        <title>Accurate intermolecular ground-state potential-energy surfaces of the HCCH-He, Ne, and Ar van der Waals complexes</title>
+                    </work-title>
+                    <journal-title>Journal of Chemical Physics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2005,title = {Accurate intermolecular ground-state potential-energy surfaces of the HCCH-He, Ne, and Ar van der Waals complexes},journal = {Journal of Chemical Physics},year = {2005},volume = {123},number = {1},author = {Munteanu, C.R. and Fernández, B.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2005</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1063/1.1947189</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-22844450734&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernández, B.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802870">
+                    <work-title>
+                        <title>The chlorobenzene-argon ground state intermolecular potential energy surface</title>
+                    </work-title>
+                    <journal-title>Journal of Chemical Physics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2004,title = {The chlorobenzene-argon ground state intermolecular potential energy surface},journal = {Journal of Chemical Physics},year = {2004},volume = {121},number = {3},pages = {1390-1396},author = {Munteanu, C.R. and Cacheiro, J.L. and Fernández, B. and Makarewicz, J.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2004</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1063/1.1764495</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-3242888599&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cacheiro, J.L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernández, B.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Makarewicz, J.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="11802871">
+                    <work-title>
+                        <title>Accurate intermolecular ground state potential of the Ne-N2 van der Waals complex</title>
+                    </work-title>
+                    <journal-title>Journal of Chemical Physics</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { munteanu2004,title = {Accurate intermolecular ground state potential of the Ne-N2 van der Waals complex},journal = {Journal of Chemical Physics},year = {2004},volume = {120},number = {19},pages = {9104-9112},author = {Munteanu, C.R. and Cacheiro, J.L. and Fernández, B.}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2004</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1063/1.1695330</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-2942587228&amp;partnerID=MN8TOARS</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Munteanu, C.R.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Cacheiro, J.L.</credit-name>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Fernández, B.</credit-name>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351082">
+                    <work-title>
+                        <title>Accurate intermolecular ground state potential of the Ar-N[sub 2] van der Waals complex</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Munteanu, C, Cacheiro, J &amp; Fernández, B, 2004, 'Accurate intermolecular ground state potential of the Ar-N[sub 2] van der Waals complex', &lt;i&gt;The Journal of Chemical Physics&lt;/i&gt;, vol. 84, no. 21, p. 853.</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2004</year>
+                    </publication-date>
+                    <work-contributors>
+                        <contributor>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5628-2268</uri>
+                        <path>0000-0002-5628-2268</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351115">
+                    <work-title>
+                        <title>Random Forest classification based on star graph topological indices for antioxidant proteins</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Fernández-Blanco, E, Aguiar-Pulido, V, Munteanu, C &amp;amp; Dorado, J, 2013, 'Random Forest classification based on star graph topological indices for antioxidant proteins', vol. 317, pp. 331-337.</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1016/j.jtbi.2012.10.006</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-contributors>
+                        <contributor>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5628-2268</uri>
+                        <path>0000-0002-5628-2268</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+                <orcid-work put-code="5351083">
+                    <work-title>
+                        <title>Accurate intermolecular ground-state potential-energy surfaces of the HCCH–He, Ne, and Ar van der Waals complexes</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Munteanu, C &amp;amp; Fernández, B, 2005, 'Accurate intermolecular ground-state potential-energy surfaces of the HCCH–He, Ne, and Ar van der Waals complexes', vol. 123, no. 1, p. 014309.</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1063/1.1947189</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-contributors>
+                        <contributor>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <work-source>
+                        <uri>http://orcid.org/0000-0002-5628-2268</uri>
+                        <path>0000-0002-5628-2268</path>
+                        <host>orcid.org</host>
+                    </work-source>
+                </orcid-work>
+            </orcid-works>
+        </orcid-activities>
+    </orcid-profile>
+</orcid-message>
