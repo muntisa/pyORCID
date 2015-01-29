@@ -1,0 +1,62 @@
+0000-0002-5628-2268
+10.6084/m9.figshare.1018599
+10.6084/m9.figshare.1018567
+24521170
+10.1021/ci400280n
+10.2174/15680266113139990119
+10.2174/157340913804998757
+10.1016/j.biosystems.2013.02.006
+10.2174/1574893611308040005
+@article { munteanu2013,title = {Regulatory affairs issues and legal ontologies in drug development},journal = {Frontiers in Bioscience - Elite},year = {2013},volume = {5 E},number = {2},pages = {446-460},author = {Munteanu, C.R. and Dorado, J. and Matei-Ilfoveanu, I. and Nita, S.A.}}http://www.scopus.com/inward/record.url?eid=2-s2.0-84878494045&partnerID=MN8TOARS
+10.2174/1568026611313050006
+10.2174/1574893611308040003
+@article { munteanu2013,title = {Kernel-based feature selection techniques for transport proteins based on Star graph topological indices},journal = {Current Topics in Medicinal Chemistry},year = {2013},volume = {13},number = {14},pages = {1681-1691},author = {Fernandez-Lozano, C. and Gestal, M. and Pedreira-Souto, N. and Postelnicu, L. and Dorado, J. and Munteanu, C.R.}}http://www.scopus.com/inward/record.url?eid=2-s2.0-84887866644&partnerID=MN8TOARS
+10.1021/jp3110024
+10.2174/1573409911309020006
+10.2174/1568026611313050001
+10.2174/1568026611313050010
+10.2174/978160805379711201010003
+10.1016/j.jtbi.2011.10.016
+10.1039/c2mb25039j
+10.1007/s00607-012-0191-2
+10.1039/c2mb05432a
+10.2174/156802612800166819
+10.1016/j.jneumeth.2012.07.004
+10.2174/1574893611106020144
+@article { munteanu2011,title = {The ability of MEAs containing cultured neuroglial networks to process information},journal = {Current Bioinformatics},year = {2011},volume = {6},number = {2},pages = {199-204},author = {Alvarellos, A. and Veiguela, N. and Munteanu, C.R. and Dorado, J. and Pazos, A. and Porto-Pazos, A.B.}}http://www.scopus.com/inward/record.url?eid=2-s2.0-79958234240&partnerID=MN8TOARS
+10.1007/978-3-642-21498-1_32
+10.1016/j.jtbi.2011.01.010
+10.1039/c1mb05069a
+10.1021/pr101009e
+@article { munteanu2011,title = {From chemical graphs in computer-aided drug design to general Markov-Galvez indices of drug-target, proteome, drug-parasitic disease, technological, and social-legal networks},journal = {Current Computer-Aided Drug Design},year = {2011},volume = {7},number = {4},pages = {315-337},author = {Riera-Fernández, P. and Munteanu, C.R. and Dorado, J. and Martín-Romalde, R. and Duardo-Sanchez, A. and González-Díaz, H.}}http://www.scopus.com/inward/record.url?eid=2-s2.0-82955246111&partnerID=MN8TOARS
+@article { munteanu2011,title = {Definition of markov-harary invariants and review of classic topological indices and databases in biology, parasitology, technology, and social-legal networks},journal = {Current Bioinformatics},year = {2011},volume = {6},number = {1},pages = {94-121},author = {Riera-Fernández, P. and Munteanu, C.R. and Pedreira-Souto, N. and Martín-Romalde, R. and Duardo-Sanchez, A. and González-Díaz, H.}}http://www.scopus.com/inward/record.url?eid=2-s2.0-79953895047&partnerID=MN8TOARS
+@article { munteanu2011,title = {Convergence of bioinformatics with nanotechnology and artificial intelligence technologies},journal = {Current Bioinformatics},year = {2011},volume = {6},number = {2},author = {Munteanu, C.R.}}http://www.scopus.com/inward/record.url?eid=2-s2.0-79958243017&partnerID=MN8TOARS
+10.1016/j.eswa.2011.02.118
+10.1016/j.jtbi.2010.11.028
+10.1021/pr900827b
+10.1016/j.polymer.2009.11.029
+10.2174/138161210792389199
+10.3390/molecules15074875
+10.2174/138161210792389252
+10.2174/138920010791514289
+10.1007/978-3-642-15390-7_8
+10.2174/157016409789973752
+10.1016/j.bmc.2008.11.007
+10.1504/IJBRA.2009.027513
+10.1016/j.jtbi.2008.11.017
+10.1016/j.jtbi.2009.07.029
+10.1007/978-3-642-02478-8_115
+10.1021/pr900556g
+10.1016/j.jtbi.2008.09.035
+10.1016/j.bbapap.2009.08.020
+10.1016/j.polymer.2008.09.070
+10.1016/j.bmc.2008.10.004
+10.1016/j.jtbi.2008.07.018
+10.1016/j.jtbi.2008.06.003
+10.1063/1.1947189
+10.1063/1.1764495
+10.1063/1.1695330
+Munteanu, C, Cacheiro, J & Fernández, B, 2004, 'Accurate intermolecular ground state potential of the Ar-N[sub 2] van der Waals complex', <i>The Journal of Chemical Physics</i>, vol. 84, no. 21, p. 853.
+10.1016/j.jtbi.2012.10.006
+10.1063/1.1947189
+
